@@ -9,8 +9,7 @@
 ### 🚀 About Me
 - 🎓 CSE Student  
 - ☁️ Working on AWS Cloud Projects  
-- 💻 Django Developer  
-- 🏆 President – BH5 Hostel  
+- 💻 Django Developer   
 - 🎯 Goal: Build Scalable & Secure Systems  
 
 ---

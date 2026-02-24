@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Raj</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;AWS+Cloud+Learner;Django+Developer;Tech+Event+Organizer;President+BH-5+Hostel&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;AWS+Cloud+Learner;Django+Developer;Tech+Event+Organizer;&center=true&width=600&height=45">
 </p>
 
 ---
